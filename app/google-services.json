@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249818672363",
+    "firebase_url": "https://fireyourdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fireyourdb",
+    "storage_bucket": "fireyourdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249818672363:android:18d86575bffdeabfae22ae",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249818672363-bldd3sqv18g80ljvehcojt59tfsd9ksh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0NDl-M8UlWg6e7eDRuHoikS-lK23guE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249818672363-bldd3sqv18g80ljvehcojt59tfsd9ksh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
